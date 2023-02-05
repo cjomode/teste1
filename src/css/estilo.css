@@ -19,7 +19,7 @@ a{
     
 .container{
     min-height: 100vh;
-    background: url(/portifolio/src/imagens/imagem-1.png);
+    background: url(./imagem-1.png);
     background-position: left bottom; /* posição da imagem no background  left top, left center, left bottom... */
     padding: 30px;
     display: flex;
